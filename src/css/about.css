@@ -1,5 +1,6 @@
 .about {
 	background-image: url('/img/vite-logo.png');
+	background-repeat: no-repeat;
 }
 
 .about-text {
